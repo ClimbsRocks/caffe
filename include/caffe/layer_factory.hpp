@@ -15,7 +15,7 @@
  * and its type is its C++ class name, but without the "Layer" at the end
  * ("MyAwesomeLayer" -> "MyAwesome").
  *
- * If the layer is going to be created simply by its constructor, in your c++
+ * If the layer is going to be created simply by its constructor, in your C++
  * file, add the following line:
  *
  *    REGISTER_LAYER_CLASS(MyAwesome);
